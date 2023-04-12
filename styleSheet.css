@@ -38,7 +38,10 @@ p
 
 iframe
 {
-  height: 800px;
+  height: 440px;
+  width: 600px;
+  margin: 0px auto;
+  margin-top: 100px;
 }
 
 /* Add a black background color to the top navigation */
@@ -83,4 +86,11 @@ img
   display: block;
   margin: 0px auto;
   max-width: 100%;
+  margin-top: 100px;
+}
+
+.linksSider
+{
+  display: block;
+  margin: 0px auto;
 }
